@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Dilshodbek.
-- 👀 I’m interested in Fornt-end.
-- 🌱 I’m currently learning React JS.
+Hi, my name is Dilshodbek.
+I’m Frontend Developer.
+I'm 24 years old. I live in Tashkent.
